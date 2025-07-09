@@ -1,6 +1,6 @@
 # 📊 AutoPreprocessAI
 
-**AutoPreprocessAI** is an interactive, GenAI-powered tool built using **Python**, **Streamlit**, and **LangChain** to automate data preprocessing for CSV files. It simplifies missing value handling, encoding, scaling, and outlier detection — all with a clear, AI-generated explanation of each step.
+**AutoPreprocessAI** is an interactive, Machine learning with GenAI-powered tool built using **Python**,**Scikit-learn**,**Streamlit**, and **LangChain** to automate data preprocessing for CSV files. It simplifies missing value handling, encoding, scaling, and outlier detection — all with a clear, AI-generated explanation of each step.
 
 ---
 
